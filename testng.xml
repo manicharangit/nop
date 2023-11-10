@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Suite">	
+ 	<test name="Launch Page Script">
+		<classes>
+			<class name="com.LRN.testing.LaunchApp" />
+		</classes>
+	</test> 
+	
+	<test name="Products Page Script">
+		<classes>
+			<class name="com.LRN.testing.comp.Product" />
+		</classes>
+	</test> 
+	
+	<test name="Downloads Page Script">
+		<classes>
+			<class name="com.LRN.testing.comp.Downloads" />
+		</classes>
+	</test> 
+	
+	<test name="SupportService Page Script">
+		<classes>
+			<class name="com.LRN.testing.comp.SupportService" />
+		</classes>
+	</test> 
+	<test name="Partners Page Script">
+		<classes>
+			<class name="com.LRN.testing.comp.Partners" />
+		</classes>
+	</test> 
+	<test name="Languages Page Script">
+		<classes>
+			<class name="com.LRN.testing.comp.Languages" />
+		</classes>
+	</test> 
+</suite>
+
+ 
+ 
+ 
