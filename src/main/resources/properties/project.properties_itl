@@ -1,0 +1,54 @@
+url=https://www.nopcommerce.com/en
+browser=1
+
+
+#chrome browser details - if browser =1
+driver_c=webdriver.chrome.driver
+driver_location_c=C:\\Users\\nikhi\\git\\nop\\src\\main\\resources\\drivers\\chromedriver.exe
+
+#Edge browser details - if browser=2
+driver_e=webdriver.edge.driver
+driver_location_e=/users/
+
+#Product Xpaths
+product=//span[normalize-space()='Prodotto']
+storedemo=//span[normalize-space()='Store Demo']
+showcase=//span[normalize-space()='Vetrina']
+features=//span[normalize-space()='Caratteristiche']
+why_for_d=//span[normalize-space()='Per gli sviluppatori']
+why_for_s=//span[normalize-space()='Per i proprietari di negozi']
+industries=//span[normalize-space()='Industrie']
+fashion=//span[normalize-space()='Moda']
+healthy_beauty=//span[normalize-space()='Salute & bellezza']
+food_beverage=//span[normalize-space()='Cibi & bevande']
+automotive=//span[normalize-space()='Automazione']
+industrial_sci=//span[normalize-space()='Industriale & Scientifico']
+furniture=//span[normalize-space()='Mobili']
+b2b_ecom=//span[normalize-space()='eCommerce B2B']
+international=//span[normalize-space()='Internazionale']
+
+# Downloads Xpaths
+Downloads=//span[normalize-space()='Download']
+Download_nop=//span[normalize-space()='Scarica nopCommerce']
+Marketplace=//span[normalize-space()='Marketplace']
+Translations=//span[normalize-space()='Traduzioni']
+copyright=//span[normalize-space()='Rimozione del copyright']
+mobile_app=//span[normalize-space()='Applicazione mobile']
+web_api=//span[normalize-space()='Web API']
+
+
+#Support&Services Xpaths
+support_service=//span[normalize-space()='Assistenza & Servizi']
+training=//span[normalize-space()='Formazione']
+#documentation=//span[normalize-space()='Documentation']
+community_for=//span[normalize-space()='Forum della community']
+premium_supp=//span[normalize-space()='Servizi di supporto premium']
+request_quote=//span[normalize-space()='Richiedi un preventivo']
+contact_us=//span[normalize-space()='Contattaci']
+#noptab=//img[@id='logo']
+
+#partners Xpaths
+partners=//span[normalize-space()='Partner']
+#Languages Xpaths
+english=//span[@class='navigation-top-menu-label navigation-top-menu-label-arrow'][normalize-space()='English']
+italiano=//span[normalize-space()='Italiano']
