@@ -20,7 +20,9 @@ public class SupportService extends LaunchApp{
 		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(TRAINING));
 		//util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(DOCUMENTATION));
 		//util.mouseOverAndClick(service.getValue(URL), service.getValue(URL));
-		
+
+		util.switchTab(1);
+		util.click("//a[@title='Installation & upgrading']");
 	}
 	
 
