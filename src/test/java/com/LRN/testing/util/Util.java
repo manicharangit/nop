@@ -42,4 +42,9 @@ public class Util {
 		click(xpath3);
 		
 	}
+	public void switchTab(int index) {
+		ArrayList<String> tab = new ArrayList<>(driver.getWindowHandles());
+		driver.switchTo().window(tab.get(index));		
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	}
 }
