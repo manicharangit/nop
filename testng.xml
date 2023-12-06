@@ -35,6 +35,11 @@
 			<class name="com.LRN.testing.comp.Languages" />
 		</classes>
 	</test> 
+	<test name="Documentation Page Script">
+		<classes>
+			<class name="com.LRN.testing.comp.Documentation" />
+		</classes>
+	</test> 
 </suite>
 
  
