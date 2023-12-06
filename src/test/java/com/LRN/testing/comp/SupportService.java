@@ -13,7 +13,7 @@ public class SupportService extends LaunchApp{
 	private Logger logger = org.apache.log4j.LogManager.getLogger(SupportService.class.getClass());
 	RemoteWebDriver driver = null; 
 	@Test
-	
+
 	public void NavigateTo() throws Exception{
 		logger.info("Suport service navigation started");
 		PropertyService service = new PropertyService();
