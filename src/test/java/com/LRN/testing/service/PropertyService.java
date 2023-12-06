@@ -16,6 +16,11 @@ public class PropertyService {
 	public String getValue(String key) throws Exception{
 		return projectProperties.getValue(key);
 	}
+	
+	public String getValueFromDoc(String key) throws Exception{
+		return projectProperties.getValue(key, true);
+	}
+	
 	public RemoteWebDriver getMyDriver() throws Exception {
 		int browser = Integer.parseInt(getValue(BROWSER));
 		RemoteWebDriver driver = null;
