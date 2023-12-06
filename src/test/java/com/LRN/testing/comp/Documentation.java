@@ -75,6 +75,41 @@ public class Documentation extends LaunchApp {
 		util.click(service.getValueFromDoc(HOW_ADD_MENU));
 		util.click(service.getValueFromDoc(ADDING_CSS_JS));
 		util.click(service.getValueFromDoc(DES_OF_STRUCTURE));
+		util.switchTab(T1);
+
+		
+	  // util.mouseOverAndClick(service.getValue(INSTALL_UPGRADE), service.getValue(TECH_SYSTEM));
+	//   util.mouseOverAndClick(service.getValue(GETTING_STARTED), service.getValue(TECH_SYSTEM));
+		
+	   util.click(service.getValueFromDoc((GETTING_STARTED));
+	   util.click(service.getValueFromDoc((CONFIGURE_TAXES));
+	   util.click(service.getValueFromDoc((TAX_SETTINGS));
+	   util.click(service.getValueFromDoc((TAX_PROVIDERS));
+	   util.click(service.getValueFromDoc((MANUAL_FIXED));
+	   util.scroll(250);
+	   util.click(service.getValueFromDoc((AVALARA));
+	   util.click(service.getValueFromDoc((EMAIL_ACCOUNTS));
+	  //util.wait(ADVANCED_CONFF);
+	   util.click(service.getValueFromDoc((ADVANCED_CONFF));
+	   util.click(service.getValueFromDoc((HOW_TO_INSTALL));
+	   util.click(service.getValueFromDoc((YOUR_STORRE));
+	   util.click(service.getValueFromDoc((GDPR_SETTINGS));
+	   util.click(service.getValueFromDoc((LOCALIZATIION));
+	   util.click(service.getValueFromDoc((CUSTUM_HTML));
+	   util.click(service.getValueFromDoc((EXTERNAL_AUTH));
+	   util.click(service.getValueFromDoc((MULTI_FACTOR));
+	   
+	   //util.click(service.getValue(AUTHENTICATION));
+	   
+	   util.click(service.getValueFromDoc((CONFIGURE_ANALY));
+	   util.click(service.getValueFromDoc((PLUGINS_NOP));
+	   util.click(service.getValueFromDoc((MULTI_STORE));
+	   util.click(service.getValueFromDoc((SECURITY_SETTINGS));
+	   util.click(service.getValueFromDoc((ROBOT_TXT));
+	   util.click(service.getValueFromDoc((PDF_SETTINGS));
+	   util.click(service.getValueFromDoc((ALL_SETTINGS));
+		util.switchTab(T0);
+
 		logger.info("creating nop plugin navigation ended");
 		logger.info("developer guide navigation ended");
 		
