@@ -22,6 +22,8 @@ public class SupportService extends LaunchApp{
 		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(PREMIUM_SUPP));
 		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(REQUEST_NOTE));
 		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(CONTACT_US));
+				logger.info("Suport service navigation started");
+
 	}
 	
 
