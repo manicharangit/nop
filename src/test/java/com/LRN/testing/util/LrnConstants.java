@@ -116,6 +116,42 @@ public class LrnConstants {
 	public static final String HOW_ADD_MENU= "how_add_menu";
 	public static final String ADDING_CSS_JS= "adding_css_js";
 	public static final String DES_OF_STRUCTURE= "des_of_structure";
-		
+
+	//documentation Mapping varibales
+	public static final String DOCUMENTATION= "documentation";
+	public static final String GET_STARTED= "get_started";
+	public static final String ADMIN_AREA= "admin_area";
+	public static final String CREATE_CATALOG="create_catalog";
+	public static final String DESIGN_STORE="design_store";
+	public static final String CHOOSE="choose";
+	public static final String UPLOADING="uploading";
+	public static final String ADDING="adding";
+	public static final String NIVO="nivo";
+	public static final String TOP_MENU="top_menu";
+	public static final String MEDIA="media";
+	public static final String CONFIGURE_PAYMENTS="configure_payments";
+	public static final String PAYMENT_METHODS="payment_methods";
+	public static final String CHECK="check";
+	public static final String CREDIT="credit";
+	public static final String PAYPAL_ST="paypal_st";
+	public static final String PAYPAL_SMART="paypal_smart";
+	public static final String PAYPAL_C="paypal_c";
+	public static final String PAYPAL_Z="paypal_z";
+	public static final String CYBER="cyber";
+	public static final String ADVANCED_CONFIG="advanced_config";
+	public static final String PAYMENT="payment";
+	public static final String CURRENCIES="currencies";
+	public static final String CONFIGURE_SHIPPING="configure_shipping";
+	public static final String SHIPPING="shipping";
+	public static final String SHIPPING_PROVIDERS="shipping_providers";
+	public static final String MANUAL="manual";
+	public static final String UPS="ups";
+	public static final String ADVANCED_CONFIGURATION="advanced_configuration";
+	public static final String COUNTRIES="countries12";
+	public static final String WAREHOUSES="warehouses";
+	public static final String DATES="dates";
+	public static final String MEASURES="measures";
+	public static final String PICKUP="pickup";
+	
 	}
 
