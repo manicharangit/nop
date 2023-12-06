@@ -18,11 +18,10 @@ public class SupportService extends LaunchApp{
 		logger.info("Suport service navigation started");
 		PropertyService service = new PropertyService();
 		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(TRAINING));
-		//util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(DOCUMENTATION));
-		//util.mouseOverAndClick(service.getValue(URL), service.getValue(URL));
-
-		util.switchTab(1);
-		util.click("//a[@title='Installation & upgrading']");
+		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(COMMUNITY_FOR));
+		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(PREMIUM_SUPP));
+		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(REQUEST_NOTE));
+		util.mouseOverAndClick(service.getValue(SUPPORT_SERVICE), service.getValue(CONTACT_US));
 	}
 	
 
