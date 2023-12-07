@@ -117,6 +117,7 @@ public class LrnConstants {
 	public static final String ADDING_CSS_JS= "adding_css_js";
 	public static final String DES_OF_STRUCTURE= "des_of_structure";
 
+
 	public static final String GETTING_STARTED="getting_started";
 	public static final String CONFIGURE_TAXES="configure_taxes";
 	public static final String TAX_SETTINGS="tax_settings";
@@ -143,9 +144,8 @@ public class LrnConstants {
 	public static final String ALL_SETTINGS ="all_settings";
 
 
-=======
   
-<<<
+
 	//documentation Mapping varibales
 	public static final String DOCUMENTATION= "documentation";
 	public static final String GET_STARTED= "get_started";
@@ -294,6 +294,6 @@ public class LrnConstants {
 	public static final String SOURCECODE_CONTRIBUTION = "sourcecode_contribution";
 	public static final String COPYRIGHT_NOTICE = "copyright_notice";
 	public static final String RESPONSIVE_DESIGN = "responsive_design";
-	
+		
 	}
 
