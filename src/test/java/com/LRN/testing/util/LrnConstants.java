@@ -117,6 +117,96 @@ public class LrnConstants {
 	public static final String ADDING_CSS_JS= "adding_css_js";
 	public static final String DES_OF_STRUCTURE= "des_of_structure";
 
+
+	//Documenatation Mapping Variabless
+	public static final String DOCUM="docum";
+	public static final String INSTALLATION="installation";
+	public static final String TECH="tech";
+	public static final String INSTALNOP="instalnop";
+	public static final String HOSTING="hosting";
+	public static final String INSTALL="install";
+	public static final String INSTALWIN="instalwin";
+	public static final String INSTALLINUX="installinux";
+	public static final String INSTALMICRO="instalmicro";
+	public static final String LOAD="load";
+	public static final String PREINSTAL="preinstal";
+	public static final String FULLYMANAGED="fullymanaged";
+	public static final String UPGRADE="upgrade";
+	
+	public static final String RUNNINGSTORE="runningstore";
+	public static final String CATALOG="catalog";
+	public static final String PRODUCTS="products";
+	public static final String ADDPRODUCT="addproduct";
+	public static final String PRODUCTATTR="productattr";
+	public static final String SPECIFICATION="specification";
+	public static final String DOWNLOADABLE="downloadable";
+	public static final String GROUPED="grouped";
+	public static final String RECURRING="recurring";
+	public static final String RENTAL="rental";
+	public static final String IMPORTE="importe";
+	public static final String PRODUCTTAGS="producttags";
+	public static final String PRODUCTREVIEW="productreview";
+	public static final String CATOGRIES="catogries";
+	public static final String MANUFACTURE="manufacture";
+	public static final String CATALOGSETT="catalogsett";
+	
+	public static final String ORDERMAN="orderman";
+	public static final String ORDERS="orders";
+	public static final String SHIPPING="shipping";
+	public static final String RETURN="return";
+	public static final String SHOPPING="shopping";
+	public static final String INVENTORY="inventory";
+	public static final String CHECKOUT="checkout";
+	public static final String ORDERSETT="ordersett";
+	
+	
+	public static final String CUSTOMER_MANAGEMENT="customer_management";
+	public static final String MANAGING_CUSTOMER="managing_customers";
+	public static final String CUST_ROLES="customer_roles";
+	public static final String ACESS="access_control";
+	public static final String ACTIVITY="activity_log";
+	public static final String ONLINE="online_customer";
+	public static final String CUSTOMER="customer_settings";
+	public static final String VENDOR="vendor_management";
+	
+	
+	
+	public static final String PROMO_TOOLS="promo_tools";
+	public static final String DISCOUNTS="discounts";
+	public static final String GIFT_CARDS="gift_cards";
+	public static final String REWARD_POINTS="reward_points";
+	public static final String AFFILIATES="affiliates";
+	public static final String TIER="tier";
+	public static final String CROSS_SELLS="cross_sells";
+	public static final String EMAIL_CAMP="email_camp";
+	public static final String BREVO="brevo";
+	public static final String BREVO_PLUG="brevo_plug";
+	public static final String RECOVER_ABAND="recover_aband";
+	public static final String SEND_AN_ORDER="send_an_order";
+	public static final String FACEBOOK="facebook";
+	
+
+	
+	public static final String CONT_MANAGE="content_management";
+	public static final String BLOG="blog";
+	public static final String NEWS="news";
+	public static final String FORUMS="forums";
+	public static final String POLLS="polls";
+	public static final String TOPICS="topics";
+	public static final String MESSAGE="message";
+	public static final String SEARCH_ENGINE="search_engine";
+	public static final String REPORTSS="reportss";
+	
+	
+	public static final String SYS_ADMIN="sys_admin";
+	public static final String SYS_INFO="sys_info";
+	public static final String LOG="log";
+	public static final String WARNINGS="warnings";
+	public static final String MAINTENANCE="maintenance";
+	public static final String MESSAGE_QUE="message_que";
+	public static final String SCHEDULE_TASKS="schedule_tasks";
+	public static final String TEMPLATES="templates";
+	
 	//Azmath
 	//support_doc
 	public static final String DEV_GUIDE = "dev_guide";
@@ -139,7 +229,6 @@ public class LrnConstants {
 	public static final String SOURCECODE_CONTRIBUTION = "sourcecode_contribution";
 	public static final String COPYRIGHT_NOTICE = "copyright_notice";
 	public static final String RESPONSIVE_DESIGN = "responsive_design";
-
 		
 	}
 
