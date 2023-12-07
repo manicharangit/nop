@@ -118,7 +118,6 @@ public class LrnConstants {
 	public static final String DES_OF_STRUCTURE= "des_of_structure";
 
 
-
 	//Documenatation Mapping Variabless
 	public static final String DOCUM="docum";
 	public static final String INSTALLATION="installation";
@@ -208,7 +207,28 @@ public class LrnConstants {
 	public static final String SCHEDULE_TASKS="schedule_tasks";
 	public static final String TEMPLATES="templates";
 	
-
+	//Azmath
+	//support_doc
+	public static final String DEV_GUIDE = "dev_guide";
+	public static final String DESIGN_GUIDE = "design_guide";
+	public static final String DESIGNER_GUIDE_OVERVIEW = "designer_guide_overview";
+	public static final String INSTALLING = "installing";
+	public static final String CREATING = "creating";
+	public static final String UNDERSTANDING_LAYDESIGN = "understanding_laydesign";
+	public static final String CUSTOMIZING = "customizing";
+	public static final String R_TO_L = "r_to_l";
+	public static final String WIDGETS = "widgets";
+	public static final String TIPS_AND_TRICKS = "tips_and_tricks";
+	public static final String CONTRIBUTING ="contributing";
+	public static final String ENTITY_EVENTS_SYSTEM = "entity_events_system";
+	public static final String WEB_API_DOC = "web_api_doc";
+	public static final String MOBILE_APPL = "mobile_appl";
+	public static final String DEV_CONTRIBUTE = "dev_contribute";
+	public static final String POSSIBLE_WAYS = "possible_ways";
+	public static final String SHARING = "sharing";
+	public static final String SOURCECODE_CONTRIBUTION = "sourcecode_contribution";
+	public static final String COPYRIGHT_NOTICE = "copyright_notice";
+	public static final String RESPONSIVE_DESIGN = "responsive_design";
 		
 	}
 

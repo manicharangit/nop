@@ -16,7 +16,7 @@ public class Languages extends LaunchApp{
 	public void navigateTo() throws Exception{
 		logger.info("Languages navigation started");
 		PropertyService service = new PropertyService();
-		util.mouseOverAndClick(service.getValue(ENGLISH), service.getValue(ESPANOL));
+		util.mouseOverAndClick(service.getValue(ENGLISH), service.getValue(ENGLISH));
 		
 	}
 
