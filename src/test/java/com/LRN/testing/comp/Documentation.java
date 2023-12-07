@@ -80,8 +80,46 @@ public class Documentation extends LaunchApp {
 		
 	  // util.mouseOverAndClick(service.getValue(INSTALL_UPGRADE), service.getValue(TECH_SYSTEM));
 	//   util.mouseOverAndClick(service.getValue(GETTING_STARTED), service.getValue(TECH_SYSTEM));
+
+
+		util.click(service.getValueFromDoc(GET_STARTED));
+		util.click(service.getValueFromDoc(ADMIN_AREA));
+		util.click(service.getValueFromDoc(CREATE_CATALOG));
+		util.click(service.getValueFromDoc(DESIGN_STORE));
+		util.click(service.getValueFromDoc(CHOOSE));
+		util.click(service.getValueFromDoc(UPLOADING));
+		util.click(service.getValueFromDoc(ADDING));
+		util.click(service.getValueFromDoc(NIVO));
+		util.click(service.getValueFromDoc(TOP_MENU));
+		util.click(service.getValueFromDoc(MEDIA));
+		util.click(service.getValueFromDoc(CONFIGURE_PAYMENTS));
+		util.click(service.getValueFromDoc(PAYMENT_METHODS));
+		util.click(service.getValueFromDoc(CHECK));
+		util.click(service.getValueFromDoc(CREDIT));
+		util.click(service.getValueFromDoc(PAYPAL_ST));
+		util.click(service.getValueFromDoc(PAYPAL_SMART));
+		util.click(service.getValueFromDoc(PAYPAL_C));
+		util.click(service.getValueFromDoc(PAYPAL_Z));
+		util.click(service.getValueFromDoc(CYBER));
+		util.click(service.getValueFromDoc(ADVANCED_CONFIG));
+		util.click(service.getValueFromDoc(PAYMENT));
+		util.click(service.getValueFromDoc(CURRENCIES));
+		util.click(service.getValueFromDoc(CONFIGURE_SHIPPING));
+		util.click(service.getValueFromDoc(SHIPPING));
+		util.click(service.getValueFromDoc(SHIPPING_PROVIDERS));
+		util.click(service.getValueFromDoc(MANUAL));
+		util.click(service.getValueFromDoc(UPS));
+	//	util.wait(ADVANCED_CONFIGURATION);
+		util.click(service.getValueFromDoc(ADVANCED_CONFIGURATION));
+		//util.click(service.getValueFromDoc(COUNTRIES));
+		util.click(service.getValueFromDoc(WAREHOUSES));
+		util.click(service.getValueFromDoc(DATES));
+		util.click(service.getValueFromDoc(MEASURES));
+		util.click(service.getValueFromDoc(PICKUP));
+		util.click(service.getValueFromDoc(COUNTRIES));
 		
-	   util.click(service.getValueFromDoc((GETTING_STARTED));
+	   util.click(service.getValueFromDoc((GETTING_STARTED))
+	   
 	   util.click(service.getValueFromDoc((CONFIGURE_TAXES));
 	   util.click(service.getValueFromDoc((TAX_SETTINGS));
 	   util.click(service.getValueFromDoc((TAX_PROVIDERS));
