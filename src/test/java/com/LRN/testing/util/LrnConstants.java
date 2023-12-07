@@ -117,6 +117,33 @@ public class LrnConstants {
 	public static final String ADDING_CSS_JS= "adding_css_js";
 	public static final String DES_OF_STRUCTURE= "des_of_structure";
 
+	public static final String GETTING_STARTED="getting_started";
+	public static final String CONFIGURE_TAXES="configure_taxes";
+	public static final String TAX_SETTINGS="tax_settings";
+	public static final String TAX_PROVIDERS="tax_provider";
+	public static final String 	MANUAL_FIXED="manual_fixed";
+	public static final String PDF_SETTINGS ="pdf_settings";
+	public static final String AVALARA =	"avalara";
+	public static final String EMAIL_ACCOUNTS ="eamil_accounts";
+	public static final String ADVANCED_CONFF ="advanced_conf";
+	public static final String HOW_TO_INSTALL = "how_to_install";
+	public static final String YOUR_STORRE ="your_store";
+	public static final String GDPR_SETTINGS ="gdpr_settings";
+	public static final String LOCALIZATIION ="localization";
+	public static final String CUSTUM_HTML ="custom_html";
+	public static final String EXTERNAL_AUTH ="external_auth";
+	public static final String MULTI_FACTOR ="multi_factor";
+	public static final String AUTHENTICATION ="authentication";
+	public static final String CONFIGURE_ANALY ="configure_analy";
+	public static final String PLUGINS_NOP ="plugins_nop";
+	public static final String MULTI_STORE ="multi_store";
+	public static final String SECURITY_SETTINGS ="security_settings";
+	public static final String ROBOT_TXT ="robot_txt";
+	public static final String PDF_SETTTINGS = "pdf_settings";
+	public static final String ALL_SETTINGS ="all_settings";
+
+
+=======
   
 <<<
 	//documentation Mapping varibales
