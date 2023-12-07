@@ -75,6 +75,26 @@ public class Documentation extends LaunchApp {
 		util.click(service.getValueFromDoc(HOW_ADD_MENU));
 		util.click(service.getValueFromDoc(ADDING_CSS_JS));
 		util.click(service.getValueFromDoc(DES_OF_STRUCTURE));
+
+		//Azmath
+		util.click(service.getValueFromDoc(DEV_GUIDE));
+		util.click(service.getValueFromDoc(DESIGN_GUIDE));
+		util.click(service.getValueFromDoc(DESIGNER_GUIDE_OVERVIEW));
+		util.click(service.getValueFromDoc(INSTALLING));
+		util.click(service.getValueFromDoc(CREATING));
+		util.click(service.getValueFromDoc(UNDERSTANDING_LAYDESIGN));
+		util.click(service.getValueFromDoc(CUSTOMIZING));
+		util.click(service.getValueFromDoc(R_TO_L));
+		util.click(service.getValueFromDoc(WIDGETS));
+		util.click(service.getValueFromDoc(RESPONSIVE_DESIGN));
+		util.click(service.getValueFromDoc(TIPS_AND_TRICKS));
+		util.click(service.getValueFromDoc(CONTRIBUTING));
+		util.click(service.getValueFromDoc(ENTITY_EVENTS_SYSTEM));
+		util.click(service.getValueFromDoc(DEV_CONTRIBUTE));
+		util.click(service.getValueFromDoc(POSSIBLE_WAYS));
+		util.click(service.getValueFromDoc(SHARING));
+		util.click(service.getValueFromDoc(SOURCECODE_CONTRIBUTION));
+		util.click(service.getValueFromDoc(COPYRIGHT_NOTICE));
 		logger.info("creating nop plugin navigation ended");
 		logger.info("developer guide navigation ended");
 		
