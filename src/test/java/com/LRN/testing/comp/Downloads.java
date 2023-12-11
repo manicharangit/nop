@@ -22,6 +22,11 @@ public class Downloads extends LaunchApp {
 		util.mouseOverAndClick(service.getValue(DOWNLOADS), service.getValue(DOWNLOAD_NOP));
 		util.mouseOverAndClick(service.getValue(DOWNLOADS), service.getValue(MARKETPLACE));
 		util.mouseOverAndClick(service.getValue(DOWNLOADS), service.getValue(TRANSLATIONS));
+		util.mouseOverAndClick(service.getValue(DOWNLOADS), service.getValue(COPYRIGHT));
+		util.mouseOverAndClick(service.getValue(DOWNLOADS), service.getValue(MOBILE_APP));
+		util.mouseOverAndClick(service.getValue(DOWNLOADS), service.getValue(WEB_API));
+		
+	
 	
 		logger.info("Download Navigation ended");
 		
