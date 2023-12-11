@@ -4,8 +4,8 @@ package com.LRN.testing.util;
 public class LrnConstants {
 
 	public static final String URL = "url";
-	public static final String PROPERTY_LOCATION ="C:\\Users\\Mani\\git\\document\\src\\main\\resources\\properties\\project_jap.properties";
-	public static final String DOC_PROPERTY_LOCATION ="C:\\Users\\Mani\\git\\document\\src\\main\\resources\\properties\\document.properties";
+	public static final String PROPERTY_LOCATION ="C:\\Users\\nikhi\\git\\nop\\src\\main\\resources\\properties\\project_por.properties";
+	public static final String DOC_PROPERTY_LOCATION ="C:\\Users\\nikhi\\git\\nop\\src\\main\\resources\\properties\\document.properties";
 	public static final String BROWSER="browser";
 	public static final String DRIVER_C="driver_c";
 	public static final String DRIVER_LOCATION_C="driver_location_c";
@@ -60,7 +60,7 @@ public class LrnConstants {
 	
 	//Language Mapping variables
 	public static final String ENGLISH= "english";
-	public static final String JAPANESE = "japanese";
+	public static final String CHINESE = "chinese";
 	
 	// tabs
 	public static final int T0 = 0;
@@ -147,7 +147,7 @@ public class LrnConstants {
   
 
 	//documentation Mapping varibales
-	public static final String DOCUMENTATION= "documentation";
+	//public static final String DOCUMENTATION= "documentation";
 	public static final String GET_STARTED= "get_started";
 	public static final String ADMIN_AREA= "admin_area";
 	public static final String CREATE_CATALOG="create_catalog";
@@ -171,7 +171,7 @@ public class LrnConstants {
 	public static final String PAYMENT="payment";
 	public static final String CURRENCIES="currencies";
 	public static final String CONFIGURE_SHIPPING="configure_shipping";
-	public static final String SHIPPING="shipping";
+	public static final String SHIPPINGG="shippingg";
 	public static final String SHIPPING_PROVIDERS="shipping_providers";
 	public static final String MANUAL="manual";
 	public static final String UPS="ups";
